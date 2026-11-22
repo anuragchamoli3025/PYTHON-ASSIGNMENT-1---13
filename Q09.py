@@ -1,0 +1,19 @@
+# Question 9: Write a program to swap two variables using a temporary variable.
+# Student Name: Anurag Chamoli | Roll Number: 13
+# Course: B.Tech (2nd Year, Section 1) | Branch: Computer Science & Engineering (CSE)
+# University: Veer Madho Singh Bhandari Uttarakhand Technical University, Dehradun
+
+def main():
+    a = 15
+    b = 30
+    print(f"Before swap: a = {a}, b = {b}")
+    
+    # Swapping using a temporary variable
+    temp = a
+    a = b
+    b = temp
+    
+    print(f"After swap using temp: a = {a}, b = {b}")
+
+if __name__ == "__main__":
+    main()
