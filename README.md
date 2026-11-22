@@ -63,3 +63,6 @@ Every program is written using clear Python fundamentals, fully commented, and s
 - `Q48.py` - Formatted print output
 - `Q49.py` - Integer vs float differences
 - `Q50.py` - Formatted personal details profile
+- ## END OF ASSIGNMENT 1 .
+
+
